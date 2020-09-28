@@ -21,7 +21,6 @@
             <a href="index.php">Health Track</a>
             <a href="#h2-title-inf">Sobre</a>
             <a href="#h2-title-inf2">Como Funciona</a>
-            <a href="#contact">Contact</a>
         </div>
     </header>
 
