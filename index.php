@@ -1,3 +1,9 @@
+<?php
+    session_start(); // inicia a variavel $_SESSION
+    $url = explode('/', $_SERVER['REQUEST_URI']); //pega a url e transforma em uma array
+    //$page = $url[3]; // URL Local
+    $page = $url[1]; // URL Online
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
